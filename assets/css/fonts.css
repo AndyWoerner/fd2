@@ -1,8 +1,0 @@
-/* Rubik */
-@font-face {
-    font-family: 'Rubik';
-    font-style: normal;
-    font-weight: 700;
-    font-display: swap;
-    src: local("Rubik"), url(../webfonts/Rubik-Bold.ttf) format("truetype");
-}
