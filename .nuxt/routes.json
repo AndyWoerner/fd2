@@ -1,0 +1,37 @@
+[
+  {
+    "name": "imprint",
+    "path": "/imprint",
+    "component": "/Users/AndyFD/Desktop/Projekte/fd2/pages/imprint.vue",
+    "chunkName": "pages/imprint",
+    "_name": "_b3e625fc"
+  },
+  {
+    "name": "privacy",
+    "path": "/privacy",
+    "component": "/Users/AndyFD/Desktop/Projekte/fd2/pages/privacy.vue",
+    "chunkName": "pages/privacy",
+    "_name": "_55b1fd01"
+  },
+  {
+    "name": "projects-project",
+    "path": "/projects/:project?",
+    "component": "/Users/AndyFD/Desktop/Projekte/fd2/pages/projects/_project.vue",
+    "chunkName": "pages/projects/_project",
+    "_name": "_7d601c88"
+  },
+  {
+    "name": "services-service",
+    "path": "/services/:service?",
+    "component": "/Users/AndyFD/Desktop/Projekte/fd2/pages/services/_service.vue",
+    "chunkName": "pages/services/_service",
+    "_name": "_43a964c0"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/AndyFD/Desktop/Projekte/fd2/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_9858dcea"
+  }
+]
